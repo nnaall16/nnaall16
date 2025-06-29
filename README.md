@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1 align="center">السلام عليكم 👋، أنا [
-uranium_fungus]</h1>
+--><h1 align="center">السلام عليكم 👋، أنا [uranium_fungus]</h1>
 <h3 align="center">مطور ومهتم بـ [الذكاء الاصطناعي / الويب / التطبيقات / الأمن السيبراني] من [عمان]</h3>
 
 <p align="center">
