@@ -38,9 +38,8 @@ uranium_fungus]</h1>
 
 ---
 
-### 📫 تواصل معي:
-- 📧 الإيميل: your@email.com
-- 💼 لينكد إن: [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 موقع شخصي: [yourwebsite.com](https://yourwebsite.com)
+
+
+
 
 
