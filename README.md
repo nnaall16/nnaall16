@@ -18,7 +18,7 @@ Here are some ideas to get you started:
                   <h4>لو معاك اي شي تفيدني فيدني  </h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines= العم+أهلاً+بكم+في+صفحتي+الشخصية;أحب+مشاركة+المعرفة+والتطوير;دائمًا+أتعلم+شيء+جديد!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=أهلاً+بكم+في+صفحتي+الشخصية;أحب+مشاركة+المعرفة+والتطوير;دائمًا+أتعلم+شيء+جديد!" />
 </p>
 
 ---
