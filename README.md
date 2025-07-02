@@ -34,14 +34,31 @@ Here are some ideas to get you started:
 <html lang="ar">
 <head>
   <meta charset="UTF-8">
-  <title>12</title> 
+  <title>عرض صورة المشروع</title>
+  <style>
+    body {
+      background-color: #111;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    img {
+      max-width: 80%;
+      border: 4px solid white;
+      border-radius: 12px;
+      box-shadow: 0 0 15px #fff3;
+    }
+  </style>
 </head>
-<body style="text-align:center; background-color:#111; color:white; font-family:Arial">
-  <h1>الصورة المعروضة من المشروع</h1>
-  
-  <img src="لقطة الشاشة 2025-07-02 144235.png" alt="صورة من المشروع" style="max-width:80%; border:3px solid #fff; border-radius:10px;">
-  
-  <p>هذ
+<body>
+  <h1>صورة من المشروع</h1>
+
+  <img src="29911561-56cc-47b1-99ea-f87bd8a47a68.png" alt="صورة مرجعية">
+
+  <p>تم عرض الصورة بنجاح من داخل المشروع.</p>
+</body>
+</html>
 
 
 
