@@ -30,7 +30,18 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>12</title> 
+</head>
+<body style="text-align:center; background-color:#111; color:white; font-family:Arial">
+  <h1>الصورة المعروضة من المشروع</h1>
+  
+  <img src="لقطة الشاشة 2025-07-02 144235.png" alt="صورة من المشروع" style="max-width:80%; border:3px solid #fff; border-radius:10px;">
+  
+  <p>هذ
 
 
 
