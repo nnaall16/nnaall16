@@ -31,5 +31,7 @@ Here are some ideas to get you started:
 
 ---
 [![جوائز GitHub](https://github-profile-trophy.vercel.app/?username=AhmedDev93&theme=radical&no-bg=true&no-frame=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+![وصف](https://github.com/username/repo-name/blob/main/images/اسم-الصورة.png?raw=true)
+
 
 
