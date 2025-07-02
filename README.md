@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 [![جوائز GitHub](https://github-profile-trophy.vercel.app/?username=AhmedDev93&theme=radical&no-bg=true&no-frame=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 <img src=![image](https://github.com/user-attachments/assets/5235c1ae-fae3-4ee3-aaf2-793d8158cd67)
  width="300"/>
+![Hello Kitty Style](https://i.pinimg.com/736x/4c/e8/7c/4ce87ca0ef4fb42ea126accf0ed3b2e5.jpg)
 
 
 
