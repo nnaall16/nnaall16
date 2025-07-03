@@ -36,10 +36,8 @@ Here are some ideas to get you started:
 | 📡 Wireshark | تحليل حزم الشبكة |
 | 🕵️‍♂️ Recon-ng | جمع معلومات عن الأهداف |
 
-![Nmap](https://upload.wikimedia.org/wikipedia/commons/4/49/Nmap-logo.svg)  
-
-![Wireshark](https://upload.wikimedia.org/wikipedia/commons/e/e9/Wireshark_Logo.svg)
-## 🚀 أشهر أدوات Kali
+\
+\## 🚀 أشهر أدوات Kali
 
 ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-blue)
 ![Sqlmap](https://img.shields.io/badge/Sqlmap-SQL%20Injection-orange)
@@ -57,6 +55,44 @@ Here are some ideas to get you started:
 <img src=![image](https://github.com/user-attachments/assets/5235c1ae-fae3-4ee3-aaf2-793d8158cd67)
  width="300"/>
 ![Hello Kitty Style](https://i.pinimg.com/736x/4c/e8/7c/4ce87ca0ef4fb42ea126accf0ed3b2e5.jpg)
+## 🔧 أشهر أدوات Kali Linux
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Nmap-logo.svg" width="60"/><br/>
+      <b>Nmap</b><br/>
+      فحص المنافذ والشبكات
+    </td>
+    <td align="center">
+      <img src="https://seeklogo.com/images/W/wireshark-logo-B011C8F1D7-seeklogo.com.png" width="60"/><br/>
+      <b>Wireshark</b><br/>
+      تحليل حزم الشبكة
+    </td>
+    <td align="center">
+      <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="60"/><br/>
+      <b>Sqlmap</b><br/>
+      استغلال SQL Injection
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Metasploit_logo_and_wordmark.svg" width="60"/><br/>
+      <b>Metasploit</b><br/>
+      استغلال الثغرات
+    </td>
+    <td align="center">
+      <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="60"/><br/>
+      <b>Hydra</b><br/>
+      تخمين كلمات المرور
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/trustedsec/social-engineer-toolkit/master/readme/set_logo.png" width="60"/><br/>
+      <b>SET</b><br/>
+      هجمات الهندسة الاجتماعية
+    </td>
+  </tr>
+</table>
 
 
 
