@@ -23,6 +23,29 @@ Here are some ideas to get you started:
 </p>
 
 ---
+## 🔧 أدوات Kali Linux
+
+| 🛠️ الأداة | 📝 الوصف |
+|----------|----------|
+| 🛰️ Nmap      | فحص الشبكات والمنافذ |
+| 🌐 Nikto     | فحص ثغرات مواقع الويب |
+| 🐍 Sqlmap    | استغلال ثغرات SQL Injection |
+| 🔐 Hydra     | هجمات تخمين كلمات المرور |
+| 👥 SET       | هجمات الهندسة الاجتماعية |
+| 🧰 Metasploit| منصة استغلال الثغرات القوية |
+| 📡 Wireshark | تحليل حزم الشبكة |
+| 🕵️‍♂️ Recon-ng | جمع معلومات عن الأهداف |
+
+![Nmap](https://upload.wikimedia.org/wikipedia/commons/4/49/Nmap-logo.svg)  
+
+![Wireshark](https://upload.wikimedia.org/wikipedia/commons/e/e9/Wireshark_Logo.svg)
+## 🚀 أشهر أدوات Kali
+
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-blue)
+![Sqlmap](https://img.shields.io/badge/Sqlmap-SQL%20Injection-orange)
+![Hydra](https://img.shields.io/badge/Hydra-Brute%20Force-red)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analyzer-lightgrey)
+
 
 ### 💻 لغاتي وأدواتي:
 <p>
