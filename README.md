@@ -38,46 +38,38 @@ Here are some ideas to get you started:
 ![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analyzer-lightgrey)
 
 
-### 💻 لغاتي وأدواتي:
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,python,django,flutter,git,github,linux,vscode" />
 </p>
 
 ---
 [![جوائز GitHub](https://github-profile-trophy.vercel.app/?username=AhmedDev93&theme=radical&no-bg=true&no-frame=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-<img src=![image](https://github.com/user-attachments/assets/5235c1ae-fae3-4ee3-aaf2-793d8158cd67)
- width="300"/>
+
 ![Hello Kitty Style](https://i.pinimg.com/736x/4c/e8/7c/4ce87ca0ef4fb42ea126accf0ed3b2e5.jpg)
-## 🔧 أشهر أدوات Kali Linux
 
 <table>
   <tr>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Nmap-logo.svg" width="60"/><br/>
       <b>Nmap</b><br/>
-      فحص المنافذ والشبكات
     </td>
     <td align="center">
       <img src="https://seeklogo.com/images/W/wireshark-logo-B011C8F1D7-seeklogo.com.png" width="60"/><br/>
       <b>Wireshark</b><br/>
-      تحليل حزم الشبكة
     </td>
     <td align="center">
       <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="60"/><br/>
       <b>Sqlmap</b><br/>
-      استغلال SQL Injection
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Metasploit_logo_and_wordmark.svg" width="60"/><br/>
       <b>Metasploit</b><br/>
-      استغلال الثغرات
     </td>
     <td align="center">
       <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="60"/><br/>
       <b>Hydra</b><br/>
-      تخمين كلمات المرور
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/trustedsec/social-engineer-toolkit/master/readme/set_logo.png" width="60"/><br/>
