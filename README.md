@@ -1,4 +1,3 @@
-## kali افضل نضام 
 
 <!--
 **nnaall16/nnaall16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +18,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-## 🔧 أدوات Kali Linux
 
 | 🛠️ الأداة | 📝 الوصف |
 |----------|----------|
@@ -33,7 +31,6 @@ Here are some ideas to get you started:
 | 🕵️‍♂️ Recon-ng | جمع معلومات عن الأهداف |
 
 \
-\## 🚀 أشهر أدوات Kali
 
 ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-blue)
 ![Sqlmap](https://img.shields.io/badge/Sqlmap-SQL%20Injection-orange)
