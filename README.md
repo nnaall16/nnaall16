@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=SDR%20%26%20Radio%20Waves&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Defined%20Radio%20Toolkit&descAlignY=58&descSize=18"/>
-</p>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/RTL-SDR_dongle.jpg/320px-RTL-SDR_dongle.jpg" width="260"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📡-Signal%20Capture-00C9FF?style=for-the-badge"/>
