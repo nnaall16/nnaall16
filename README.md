@@ -12,12 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1 align="center">السلام عليكم 👋،  </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=أهلاً+بكم+في+صفحتي+الشخصية;أحب+مشاركة+المعرفة+والتطوير;دائمًا+أتعلم+شيء+جديد!" />
-</p>
 
----
+
+
 
 | 🛠️ الأداة | 📝 الوصف |
 |----------|----------|
