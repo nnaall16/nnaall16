@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="paranoia.png" width="700"/>
-</p>
+
 
 <h3 align="center">Paranoia</h3>
 
