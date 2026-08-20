@@ -1,8 +1,5 @@
 
 
-<h3 align="center">Paranoia</h3>
-
-<h2 align="center">I am history</h2>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=𝕊𝔻ℝ%20%26%20ℝ𝕒𝕕𝕚𝕠%20𝕎𝕒𝕧𝕖𝕤&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
